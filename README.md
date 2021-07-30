@@ -17,7 +17,8 @@
 
 <h2>The Garden That Started It All</h2>
   <p>Talk about our first date and the awkwardness of it all but how incredibly endearing it was too. How I was so incredibly nervous to even hug him and couldn't imagine to even kiss him at the time because nerves!!! About all the plants, the birdwatching and being teased for loving watching them act like little dogs... Browsing the gift shop together, debating on buying a souvenir as memory of our first date. Oh man and the first time traveling the bus with him; waiting in the heat for so long to return back home. Seeing the police mark and clean up an accident at the intersection while waiting. Coming back, hanging at black cat and I think MOD pizza... And him not leaving my side till 10pm.
-Make sure to insert photos at the end too.</p>
+Make sure to insert photos at the end too. <img src="https://drive.google.com/file/d/1FK7aJNamCOChEK8RZV7UpjCOowUMDyO6/view?usp=sharing" alt="Charles, George, and I, cuddling on the couch">
+  </p>
 
 <h2>A Somber Conversation</h2>
   <p>When my insecurities were at an all out high and I let them win. I let them convince me that breaking up would be beneficial to the both of us. But, all I felt it be was detrimental. I listened to a lot of silly songs that put me back on my feet. Reorganized my mind. One song in particular was from the movie <a href="https://youtu.be/a1xaTkFG2oY">Meet the Robinsons - Another Believer</a>. Thank you for giving me a second chance, Charles.</p>
