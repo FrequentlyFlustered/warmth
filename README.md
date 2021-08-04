@@ -9,8 +9,8 @@
   <p style="background-color:rgba(255, 99, 71, 0.5);">This site is entirely for practicing purposes and an incredibly serious and passionate personal project.<br>You keep telling me to pursue my endeavors Charles, so, here I am! Doing my best like you wish me to. :)</p>
 <hr>
   
-<h2>My First Job</h2>
-  <p>Work on a heartfelt paragraph about meeting each other</p>
+<h2 title="it's an awful place to work at and I suggest no one does it">My First Job</h2>
+  <p>I'm not one for believing in fate truthfully. If it wasn't for me flunking out of two departments at this job, I would've never met Charles though. So, maybe it was fate that I didn't succeed and end up meeting you in exchange.  </p>
 
 <h4><i>Tidbits From Many Conversations</i></h4>
   <p>Ramble about all the inside jokes between me and Charles while gangstocking together for the first two-ish months before he asked me out to botannical gardens</p>
@@ -27,3 +27,4 @@ Make sure to insert photos at the end too.
 <h2>A Heartfelt Restart</h2>
   <p>
 <img src="https://drive.google.com/thumbnail?id=1ijJfJBbGG9FIqDSYaMEqgU4uV7PIVhrP" alt="Charles, George, and I, cuddling on the couch">
+   <!--If any inquiries about my evergrowing love for this tall dork, <a href=mailto:"flustered24@gmail.com">email me here.</a>-->
