@@ -1,22 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Expression of Love</title>
-  <style>
-    h1 {
-    color: black;
-    font-family: verdana;
-    }
-    p {
-    color: navyblue;
-    font-family: verdana;
-    }
-  </style>
+<title>Expression of Love</title>
 </head>
 <body>
 
 <h1><em>Overture</em></h1>
-  <p title="If you caught this, you get a bonus point! Tally them up at the end of this journey hehe">This site is entirely for practicing purposes and an incredibly serious and passionate personal project.<br>You keep telling me to pursue my endeavors Charles, so, here I am! Doing my best like you wish me to. :)</p>
+  <p style="background-color:rgba(255, 99, 71, 0.5);">This site is entirely for practicing purposes and an incredibly serious and passionate personal project.<br>You keep telling me to pursue my endeavors Charles, so, here I am! Doing my best like you wish me to. :)</p>
 <hr>
   
 <h2>My First Job</h2>
@@ -32,7 +22,7 @@ Make sure to insert photos at the end too.
   </p>
 
 <h2>A Somber Conversation</h2>
-  <p>When my insecurities were at an all out high and I let them win. I let them convince me that breaking up would be beneficial to the both of us. But, all I felt it be was detrimental. I listened to a lot of silly songs that put me back on my feet. Reorganized my mind. One song in particular was from the movie <a href="https://youtu.be/a1xaTkFG2oY">Meet the Robinsons - Another Believer</a>. Thank you for giving me a second chance, Charles.</p>
+  <p>When my insecurities were at an all out high and I let them win. I let them convince me that breaking up would be beneficial to the both of us. But, all I felt it be was detrimental. I listened to a lot of silly songs that put me back on my feet. Reorganized my mind. One song in particular was from the movie <a href="https://youtu.be/a1xaTkFG2oY" target="_blank">Meet the Robinsons - Another Believer</a>. Thank you for giving me a second chance, Charles.</p>
 
 <h2>A Heartfelt Restart</h2>
   <p>
