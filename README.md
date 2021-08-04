@@ -28,3 +28,4 @@ Make sure to insert photos at the end too.
   <p>
 <img src="https://drive.google.com/thumbnail?id=1ijJfJBbGG9FIqDSYaMEqgU4uV7PIVhrP" alt="Charles, George, and I, cuddling on the couch">
    <!--If any inquiries about my evergrowing love for this tall dork, <a href=mailto:"flustered24@gmail.com">email me here.</a>-->
+  
