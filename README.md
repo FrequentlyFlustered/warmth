@@ -20,7 +20,7 @@
 <h2>The Garden That Started It All</h2>
   <p>Talk about our first date and the awkwardness of it all but how incredibly endearing it was too. How I was so incredibly nervous to even hug him and couldn't imagine to even kiss him at the time because nerves!!! About all the plants, the birdwatching and being teased for loving watching them act like little dogs... Browsing the gift shop together, debating on buying a souvenir as memory of our first date. Oh man and the first time traveling the bus with him; waiting in the heat for so long to return back home. Seeing the police mark and clean up an accident at the intersection while waiting. Coming back, hanging at black cat and I think MOD pizza... And him not leaving my side till 10pm.
 Make sure to insert photos at the end too. 
-    <img src="https://drive.google.com/thumbnail?id=1PlbuROxsFuE_bw0XbChG24uRkCC2FcON" alt="Our First Date to the Gardens">
+  <img src="https://drive.google.com/thumbnail?id=1PlbuROxsFuE_bw0XbChG24uRkCC2FcON" alt="Our First Date to the Gardens" style="float:left;"> I still remember the nerves I got taking this picture... <3
   </p>
 
 <h2>A Somber Conversation</h2>
