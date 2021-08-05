@@ -27,7 +27,7 @@
 <h2>A Somber Conversation</h2>
   <p>When my insecurities were at an all out high and I let them win. I let them convince me that breaking up would be beneficial to the both of us. But, all I felt it be was detrimental. I listened to a lot of silly songs that put me back on my feet. Reorganized my mind. One song in particular was from the movie <a href="https://youtu.be/a1xaTkFG2oY" target="_blank">Meet the Robinsons - Another Believer</a>. Thank you for giving me a second chance, Charles.</p>
 
-<h2=id"End">A Heartfelt Restart</h2>
+<h2 id="End">A Heartfelt Restart</h2>
   <p>
 <img src="https://drive.google.com/thumbnail?id=1ijJfJBbGG9FIqDSYaMEqgU4uV7PIVhrP" alt="Charles, George, and I, cuddling on the couch">
    <!--If any inquiries about my evergrowing love for this tall dork, <a href=mailto:"flustered24@gmail.com">email me here.</a>-->
