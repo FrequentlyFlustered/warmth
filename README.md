@@ -16,7 +16,7 @@
 
 <h4><i>Tidbits From Many Conversations</i></h4>
   <p>I don't really remember all the minute details from the first few months we got to working together and talking. Admittedly, I think I was often still too focused on a certain unmentionable person that I'm embarrassed to say the name of. I think our exchange about the Dora movie is what sorta started it all, right? After that, I only remember brief conversations while you helped me learn how to become a "better" and somewhat adequate stocker over time. Once we started gangstocking though, I recall us talking more and more freely. It's where I discovered your liking of Pokemon, Pixar movies, country music, dnd, your favorite color (orange hehe), and so much more. Stocking together is also where I remember fondly joking about dumb things like the wiggles, old music the Fry's radio didn't play anymore (that I didn't even know about), and tons of memes I likely tried to show you and you had distate for them.</p>
- <h4><i>Fast Food Interlude<i></h4>
+ <h4><i>Fast Food Interlude</i></h4>
    <p>
 
 <h2>The Garden That Started It All</h2>
@@ -25,7 +25,7 @@
   </p>
 
 <h2>A Somber Conversation</h2>
-  <p>When my insecurities were at an all out high and I let them win. I let them convince me that breaking up would be beneficial to the both of us. But, all I felt it be was detrimental. I listened to a lot of silly songs that put me back on my feet. Reorganized my mind. One song in particular was from the movie <a href="https://youtu.be/a1xaTkFG2oY" target="_blank">Meet the Robinsons - Another Believer</a>. Thank you for giving me a second chance, Charles.</p>
+  <p>When my insecurities were at an all out high and I let them win. I let them convince me that breaking up would be beneficial to the both of us. But, all I felt instead was how detrimental it affected me. I realized how much I despised not being able to talk to you normally on a daily basis. I listened to a lot of silly songs that put me back on my feet and made me reevaluate my decision and the reasons behind it. Reorganize my mind, fix the hamster wheel that spun out of place. One song in particular was from the movie, Meet the Robinsons -<a href="https://youtu.be/a1xaTkFG2oY" target="_blank">Another Believer</a>. Thank you for giving me a second chance, Charles.</p>
 
 <h2 id="End">A Heartfelt Restart</h2>
   <p>
