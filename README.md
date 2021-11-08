@@ -28,7 +28,8 @@
   <p>When my insecurities were at an all out high and I let them win. I let them convince me that breaking up would be beneficial to the both of us. But, all I felt instead was how detrimental it affected me. I realized how much I despised not being able to talk to you normally on a daily basis. I listened to a lot of silly songs that put me back on my feet and made me reevaluate my decision and the reasons behind it. Reorganize my mind, fix the hamster wheel that spun out of place. One song in particular was from the movie, Meet the Robinsons -<a href="https://youtu.be/a1xaTkFG2oY" target="_blank">Another Believer</a>. Thank you for giving me a second chance, Charles.</p>
 
 <h2 id="End">A Heartfelt Restart</h2>
-  <p>It took some coaxing and a lot of hesitance from the both of us, but, as the gears of time moved, so did we. We had a lot of awkward moments, readjusting to one another, coming to terms with a lot of our flaws. I made you so insecure for so long and I'm so deeply sorry for that. I'm just glad you kept trying and persisting even during the times when I was harshest.
+  <p>It took some coaxing and a lot of hesitance from the both of us, but, as the gears of time moved, so did we. We had a lot of awkward moments, readjusting to one another, coming to terms with a lot of our flaws. I made you so insecure for so long and I'm so deeply sorry for that. I'm just glad you kept trying and persisting even during the times when I was harshest.</p>
 <img src="https://drive.google.com/thumbnail?id=1ijJfJBbGG9FIqDSYaMEqgU4uV7PIVhrP" alt="Charles, George, and I, cuddling on the couch">
-   <!--If any inquiries about my evergrowing love for this tall dork, <a href=mailto:"flustered24@gmail.com">email me here.</a>-->
+   <p>If any inquiries about my evergrowing love for this tall dork, <a href=mailto:"flustered24@gmail.com">email me here.</a></p>
+  <!--I'm so bad at this I can't even figure out how to image map or if I can image map on github? have to keep trying-->
   
