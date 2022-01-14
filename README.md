@@ -33,6 +33,7 @@
    <p>If any inquiries about my evergrowing love for this tall dork, <a href=mailto:"flustered24@gmail.com">email me here.</a></p>
   <p>On a similar note, here is a table chart demonstrating my love for Charles in the dumbest of ways..hehe.</p>
   <table>
+    <caption>Let Me Chart My Love</caption>
    <tr>
     <th>Physical Love</th>
     <th>Emotional Love</th>
@@ -62,5 +63,6 @@
       <td>confident but not cocky, humble... most of the time :P</td>
     </tr>
   </table>
+  <p>I'm gonna test different table styles here, don't mind me, Charles. Edit: jk I forgot that CSS doesn't work here properly since this is only intended for straight html formatting, not actual website viewing... I think. Or I'm just stupid, either or. Uhhhhh, LOVE YOU!</p>
   <!--I'm so bad at this I can't even figure out how to image map or if I can image map on github? have to keep trying-->
   
