@@ -63,6 +63,22 @@
       <td>confident but not cocky, humble... most of the time :P</td>
     </tr>
   </table>
-  <p>I'm gonna test different table styles here, don't mind me, Charles. Edit: jk I forgot that CSS doesn't work here properly since this is only intended for straight html formatting, not actual website viewing... I think. Or I'm just stupid, either or. Uhhhhh, LOVE YOU!</p>
+  <p>I'm gonna test different table styles here, don't mind me, Charles. Edit: jk I forgot that CSS doesn't work here properly since this is only intended for straight html formatting, not actual website viewing... I think. Or I'm just stupid, either or. Uhhhhh, LOVE YOU! AND that being said, let me give you a list of titles of things that remind me of you and make me happy. (Related to stuff we've done together)</p>
+  <ul>
+    <li>Monster Hunter Stories 2</li>
+    <li>LOZ:TP</li>
+    <li>Captain Toad</li>
+    <li>Pikmin</li>
+    <li>Diablo 3</li>
+    <li>Bargain Bin Movies</li>
+    <li>MCU movies</li>
+    <li>Eternal Darkness</li>
+    <li>Whiskey</li>
+    <li>Cheap pizza</li>
+    <li>Sweets of all sorts</li>
+    <li>DND</li>
+    <li>Silly cooking shows</li>
+  </ul>
+  <p>I'm sure I could continue listing so much more but, I worry it'll start to just seem increasingly redundant haha. But! If you would like more listed, do feel free to let me know silly dingle. I'll come back to this if so. :D</p>
   <!--I'm so bad at this I can't even figure out how to image map or if I can image map on github? have to keep trying-->
   
