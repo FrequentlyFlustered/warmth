@@ -31,5 +31,36 @@
   <p>It took some coaxing and a lot of hesitance from the both of us, but, as the gears of time moved, so did we. We had a lot of awkward moments, readjusting to one another, coming to terms with a lot of our flaws. I made you so insecure for so long and I'm so deeply sorry for that. I'm just glad you kept trying and persisting even during the times when I was harshest.</p>
 <img src="https://drive.google.com/thumbnail?id=1ijJfJBbGG9FIqDSYaMEqgU4uV7PIVhrP" alt="Charles, George, and I, cuddling on the couch">
    <p>If any inquiries about my evergrowing love for this tall dork, <a href=mailto:"flustered24@gmail.com">email me here.</a></p>
+  <p>On a similar note, here is a table chart demonstrating my love for Charles in the dumbest of ways..hehe.</p>
+  <table>
+   <tr>
+    <th>Physical Love</th>
+    <th>Emotional Love</th>
+    </tr>
+    <tr>
+    <td>warm hugs</td>
+      <td>always willing to listen</td>
+    </tr>
+    <tr>
+    <td>gentle eyes</td>
+      <td>understanding/comforting when he can</td>
+    </tr>
+    <tr>
+    <td>comforting smile</td>
+      <td>cheers me up all the time</td>
+    </tr>
+    <tr>
+      <td>goofy dances</td>
+      <td>open to being vulnerable with me</td>
+    </tr>
+    <tr>
+      <td>over the top singing</td>
+      <td>optimistic but not to a fault(grounded)</td>
+    </tr>
+    <tr>
+      <td>soft and rough kisses</td>
+      <td>confident but not cocky, humble... most of the time :P</td>
+    </tr>
+  </table>
   <!--I'm so bad at this I can't even figure out how to image map or if I can image map on github? have to keep trying-->
   
