@@ -7,6 +7,7 @@
 
 <h1><em>Overture</em></h1>
   <p style="background-color:rgba(255, 99, 71, 0.5);">This site is entirely for practicing purposes and to fulfill my first personal coding project.<br>You keep telling me to pursue my endeavors Charles, so, here I am! Doing my best like you wish me to. :)</p>
+<p>For starters, <a href="https://docs.google.com/document/d/191P_yQpJmydxGjdaZpgR09Fm1Xd9V20BybSnXgOriXo/edit?usp=sharing">here's a poem</a> I wrote for you last year; In case you don't have access to it anymore or didn't save it hehe.
   <p>I'm attempting to test out this function so don't mind the mention below</p>
   <p><a href="#End">Skip to the end for speedrun</a></p>
 <hr>
